@@ -1,5 +1,5 @@
 {
-    "name": "johnitvn/yii2-user-plus",
+    "name": "apychan/yii2-user-plus",
     "description":"High flexible user management extension for yii2",
     "type": "yii2-extension",
     "license": "Apache-2.0",
@@ -24,7 +24,7 @@
         "yiisoft/yii2-swiftmailer": "~2.0",
         "yiisoft/yii2-authclient": "~2.0",
         "yiisoft/yii2-jui": "*",
-        "johnitvn/yii2-ajaxcrud": "2.0.3"
+        "johnitvn/yii2-ajaxcrud": "*"
     },
     "autoload": {
         "psr-4": {
