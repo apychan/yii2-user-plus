@@ -28,10 +28,10 @@
     },
     "autoload": {
         "psr-4": {
-            "johnitvn\\userplus\\": "src/"
+            "apychan\\userplus\\": "src/"
         }
     },
     "extra": {
-        "bootstrap": "johnitvn\\userplus\\Bootstrap"
+        "bootstrap": "apychan\\userplus\\Bootstrap"
     }
 }
